@@ -1,10 +1,3 @@
-# Customer-Trends-Data-Analysis-Project
-
-Here is a **clean, professional, recruiter-friendly README** exactly as the picture asks.
-You can copy-paste this directly into your GitHub README.md.
-
----
-
 # Data Analytics End-to-End Project (Python, SQL, Power BI)
 
 ## Overview
