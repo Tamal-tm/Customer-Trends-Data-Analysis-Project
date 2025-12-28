@@ -1,4 +1,5 @@
-# Data Analytics End-to-End Project (Python, SQL, Power BI)
+# Data Analytics End-to-End Project 
+## (Python, SQL, Power BI)
 
 ## Overview
 
@@ -120,6 +121,4 @@ Tamal Mallick
 
 ---
 
-
-Just tell me.
 
